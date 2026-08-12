@@ -1,0 +1,10 @@
+{
+  "name": "mee6-rank-bot",
+  "version": "1.0.0",
+  "description": "Discord HD Rank Card Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@napi-rs/canvas": "^0.1.44"
+  }
+}
